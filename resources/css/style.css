@@ -10,7 +10,7 @@
     --sky-blue: hsl(228, 45%, 44%);
 }
 
-/* customise*/
+/* customize*/
 
 * {
     box-sizing: border-box;
@@ -50,12 +50,12 @@ body {
 }
 
 .text h2 {
-    color: (--dark-blue);
+    color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
 }
 
 .text p {
-    color: (--grayish-blue);
+    color: hsl(220, 15%, 55%);
 }
 
 
