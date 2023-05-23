@@ -24,8 +24,8 @@ Frontend Mentor QR code mobile.png
 
 ### Links
 
-- Solution URL: [https://github.com/zlatozaraZlatkova/qr-code-component]
-- visit website  [https://frontend-qr-component.netlify.app/]
+- Solution URL: [repository](https://github.com/zlatozaraZlatkova/qr-code-component)
+- visit website  [website](https://frontend-qr-component.netlify.app/)
 
 
 ## My process
